@@ -1,5 +1,3 @@
-#experiment 3
-
 # Example graph represented as an adjacency list
 graph = {
     'A': ['B', 'C'],

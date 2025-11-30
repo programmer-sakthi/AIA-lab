@@ -1,5 +1,3 @@
-# experiment 5
-
 # Set up the game board as a list
 board = ["-", "-", "-",
          "-", "-", "-",

@@ -1,4 +1,3 @@
-#experiment 4
 import heapq
 
 # Step 1: Define the graph (adjacency list)

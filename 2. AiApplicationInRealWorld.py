@@ -1,4 +1,4 @@
-#experiment 1
+# they just asked for an AI application. I used to experiment 1 since it can be considered an application 
 
 from textblob import TextBlob
 from textblob.en import polarity
