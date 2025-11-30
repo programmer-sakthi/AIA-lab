@@ -5,7 +5,7 @@ from sklearn.metrics import accuracy_score, classification_report
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-url = "student_data.csv"
+url = "https://gist.githubusercontent.com/programmer-sakthi/4d4a06d80d64712fe9529e46b7a6bc8a/raw/student_data.csv"
 data = pd.read_csv(url)
 
 data["pass"] = (data["G3"] >= 10).astype(int)
